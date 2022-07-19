@@ -19,7 +19,7 @@ console.log (preferedColor)
 
 // GENERO NUMERO RANDOMICO 1 - 100 //
 
-var num = Math.floor(Math.random()*100);
+const num = Math.floor(Math.random()*100);
 
 console.log (num)
 
